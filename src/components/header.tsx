@@ -14,7 +14,7 @@ const Header = () => {
                         nav.map((itm, ind) => {
 
                             return (
-                                <li className={cn("flex cursor-pointer text-zinc-400 font-medium", {
+                                <li key={ind} className={cn("flex cursor-pointer text-zinc-400 font-medium", {
                                     "text-teal-800 font-bold": ind === nav.length - 1
                                 })}>
                                     {itm}
