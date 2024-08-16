@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "category": "CSPM",
+        "widget": [
+            {
+                "id": "1",
+                "label": "Cloud Accounts",
+                "type":"chart",
+                "isActive": true
+            },
+            {
+                "id": "2",
+                "label": "Risk Assesments",
+                "type":"empty",
+                "isActive": true
+            },
+            {
+                "id": "3",
+                "label": "cspw-widget-3",
+                "type":"chart",
+                "isActive": false
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "category": "CWPP",
+        "widget": [
+            {
+                "id": "1",
+                "label": "Top 5",
+                "type":"empty",
+                "isActive": true
+            },
+            {
+                "id": "2",
+                "label": "Workload alert",
+                "type":"empty",
+                "isActive": true
+            },
+            {
+                "id": "3",
+                "label": "cwpp-widget-3",
+                "type":"chart",
+                "isActive": false
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "category": "Image",
+        "widget": [
+            {
+                "id": "1",
+                "label": "img-widget-1",
+                "type":"empty",
+                "isActive": true
+            },
+            {
+                "id": "2",
+                "label": "img-widget-2",
+                "type":"empty",
+                "isActive": true
+            },
+            {
+                "id": "3",
+                "label": "img-widget-3",
+                "type":"empty",
+                "isActive": false
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "category": "Ticket",
+        "widget": [
+            {
+                "id": "1",
+                "label": "ticket-widget-1",
+                "type":"empty",
+                "isActive": true
+            },
+            {
+                "id": "2",
+                "label": "ticket-widget-2",
+                "type":"empty",
+                "isActive": true
+            },
+            {
+                "id": "3",
+                "label": "ticket-widget-3",
+                "type":"empty",
+                "isActive": false
+            }
+        ]
+    }
+]
