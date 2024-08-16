@@ -83,7 +83,7 @@ export default function Home() {
 }
 
 
-export function H3({ children }: ChildrenType) {
+function H3({ children }: ChildrenType) {
 
   return (
     <h3 className="text-lg font-semibold capitalize">
